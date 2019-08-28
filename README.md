@@ -15,3 +15,6 @@ The smart stick system for assisting blind people . Visually impaired people use
   
  # Arduino Blind Stick in Action :
 Make sure the connections are done as per the circuit diagram and the program is succesfully uploaded .Now ,power both the circuit using  a 9v battery and you should start to see results .Move the ultra sonic sensor closer to any object  and you will notice the buzzer beeping .
+
+# Cicuit Diagram :
+![circuit](https://user-images.githubusercontent.com/35002635/63893532-3b9bdf00-ca0c-11e9-90df-997dd91659bb.png)
